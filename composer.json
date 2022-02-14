@@ -1,6 +1,6 @@
 {
-    "name": "purnama97/bpjs-bridging",
-    "description": "Wrapper for BPJS Indonesia Versi Enkripsi",
+    "name": "purnama97/inacbgs-bridging",
+    "description": "Wrapper for Integration SIMRS - INA-CBG v.5.6.x",
     "type": "package",
     "authors": [
         {
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Purnama97\\Bpjs\\": "src/"
+            "Purnama97\\Inacbgs\\": "src/"
         }
     },
     "require": {
