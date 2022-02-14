@@ -1,0 +1,21 @@
+{
+    "name": "purnama97/bpjs-bridging",
+    "description": "Wrapper for BPJS Indonesia Versi Enkripsi",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Ipur Purnama",
+            "email": "ipur.purnama351@gmail.com"
+        }
+    ],
+    "license": "mit",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Purnama97\\Bpjs\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
